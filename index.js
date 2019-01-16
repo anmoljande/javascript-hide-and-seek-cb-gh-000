@@ -26,6 +26,7 @@ function increaseRankBy(n)
 
 function deepestChild()
 {
+  var curr[];
   
   
 }
