@@ -34,5 +34,5 @@ function deepestChild()
     next=curr.children[0];
     
   }
-  
+  return next;
 }
