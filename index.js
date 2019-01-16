@@ -28,6 +28,10 @@ function deepestChild()
 {
   var curr=document.getElementById('grand-node');
   var next=curr.children[0];
-  
+  while(next)
+  {
+    next=curr.children[0];
+    
+  }
   
 }
