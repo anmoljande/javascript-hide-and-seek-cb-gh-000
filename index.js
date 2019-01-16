@@ -27,6 +27,8 @@ function increaseRankBy(n)
 function deepestChild()
 {
   var curr[];
+  var next[];
   
+  curr=document.querySelectorAll()
   
 }
